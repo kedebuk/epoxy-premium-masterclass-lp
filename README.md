@@ -3,6 +3,6 @@
 Static GitHub Pages landing page remake.
 
 - Source reference: ruangnyasolusi.id/masterclass-bisnis-epoxy-premium
-- Visual assets: generated via Codex native image generation
-- Current version: full image baked-in Codex illustration remake — all main copy is composited into clean section images under `assets/baked/`
+- Current version: direct Codex imagegen baked-text image stack
+- Important correction: the section images in `assets/baked-direct/` are raw Codex imagegen outputs with text baked directly from the prompts; no manual text overlay/compositing was used.
 - Stack: static HTML image stack, no build step
